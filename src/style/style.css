@@ -1,0 +1,29 @@
+@import './roboto.css';
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    margin: 4rem auto;
+    width: 500px;
+    max-width: 90%;
+}
+
+.code{
+    background-color: green;
+}
+
+.logo{
+    background:url('../assets/icon.png');
+    background-size: cover;
+    text-align: center;
+    height: 200px;
+    width: 190px;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
